@@ -1,4 +1,4 @@
-Step 1. Set up data for analysis
+Step 1. Set up data for analysis using samp_1_data.R
 
 Step 2. Run the analyses:
 
