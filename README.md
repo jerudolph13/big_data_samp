@@ -24,3 +24,5 @@ Step 2. Run the analyses
 
 Step 3. Summarize results
   - samp_3_repeat-summ.R : Smmarize across repeated divide-and-recombine analyses
+  - samp_3_tables.R : Build manuscript tables
+  - samp_3_fig.R : Build manuscript figures
